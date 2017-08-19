@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feeds>
+	<feed>
+		<title>The Verge</title>
+		<link>http://www.theverge.com/rss/frontpage</link>
+		<description>IT and Tech</description>	
+	</feed>
+	<feed>
+		<title>NY Times</title>
+		<link>http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml</link>
+		<description>News </description>	
+	</feed>
+	<feed>
+		<title>Wired</title>
+		<link>http://feeds.wired.com/wired/index</link>
+		<description>IT and Tech</description>	
+	</feed>
+	<feed>
+		<title>CNN</title>
+		<link>http://rss.cnn.com/rss/cnn_topstories.rss</link>
+		<description>News</description>	
+	</feed>
+	<feed>
+		<title>ArsTechnica</title>
+		<link>http://feeds.arstechnica.com/arstechnica/index</link>
+		<description>IT and Tech</description>	
+	</feed>
+</feeds>
