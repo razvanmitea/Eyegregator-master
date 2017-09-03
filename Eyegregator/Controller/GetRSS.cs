@@ -24,8 +24,7 @@ namespace Eyegregator.Controller
 
 		public List<string> Urls
 		{ get; set ; }
-
-
+        
 		public List<rssFeeds> RssFeeds = new List<rssFeeds> ();
 
 		public RSSUtil ()
